@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
             answerButtonsElement.appendChild(optionContainer1);
             answerButtonsElement.appendChild(optionContainer2);
         } else {
-            document.querySelector(".right-container").style.width='82%';
+            document.querySelector(".right-container").style.width='80%';
             document.querySelector(".left-container").style.width='60%';
                 question.options.forEach(option => {
                     const button = document.createElement('button');
