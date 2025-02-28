@@ -1,0 +1,152 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Complete the set of coordinates for the given rule:<br> y = x + 1. <br><br>(4,_), (-2,_), (0,_)",
+    "options": [
+      "(4,5), (-2,-1), (0,1)",
+      "(4,5), (-2,-3), (0,1)",
+      "(4,5), (-2,2), (0,1)",
+      "(4,2), (-2,-3), (0,0)"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Which of the following is the graph for the equation y = x?",
+    "options": ["./assests/optionImg/1.png", "./assests/optionImg/2.png", "./assests/optionImg/3.png", "./assests/optionImg/4.png"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Which of these graphs indicate that y∝x?",
+    "options": ["./assests/optionImg/5.png", "./assests/optionImg/6.png", "./assests/optionImg/7.png", "./assests/optionImg/8.png"],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Which of these graphs indicate that y is inversely proportional to x?",
+    "options": ["./assests/optionImg/9.png", "./assests/optionImg/10.png", "./assests/optionImg/11.png", "./assests/optionImg/12.png"],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Lisa goes to the market to buy apples. The graph below shows the relationship between the number of apples and their total cost. Choose the correct statements:<br><img width='47%' src='./assests/images/1.png'>",
+    "options": [
+      "If Lisa buys 5 apples, she has to pay $10.",
+      "If Lisa buys 3 apples, she has to pay $6.",
+      "If Lisa buys 2 apples, she has to pay $4.",
+      "All of the above."
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q6",
+    "question": "A car starts from rest and accelerates uniformly. The following table shows its speed at different times. What will be the speed of the car at 9 seconds?<br><img width='47%' src='./assests/images/11.png'>",
+    "options": [
+      "18 m/s",
+      "20 m/s",
+      "22 m/s",
+      "24 m/s"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q7",
+    "question": "A water tank is being filled at a constant rate. The table below shows the amount of water in the tank at different times. How much water will be in the tank after 5 minutes?<br><img width='47%' src='./assests/images/2.png'>",
+    "options": [
+      "15 liters",
+      "18 liters",
+      "21 liters",
+      "24 liters"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Emily recorded the growth of her plant for some weeks. The graph below shows the relationship between time (weeks) and plant height (cm). Which of the following is incorrect?<br><img width='47%' src='./assests/images/3.png'>",
+    "options": [
+      "The height of the plant in the 1st week was 2 cm.",
+      "The height of the plant in the 3rd week was 3 cm.",
+      "The height of the plant in the 4th week was 5 cm.",
+      "The height of the plant in the 8th week was 6 cm."
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q9",
+    "question": "A scientist is studying the growth of bacteria. The table below shows the number of bacteria (Y) observed at different time intervals (X). What is the relationship between X and Y?<br><img width='47%' src='./assests/images/4.png'>",
+    "options": [
+      "X and Y are inversely proportional",
+      "X and Y are directly proportional",
+      "X and Y are not related",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q10",
+    "question": "A factory produces widgets. The table below shows the time taken (Y) to produce a fixed number of widgets when more workers (X) are assigned to the task. What is the relationship between X and Y?<br><img width='47%' src='./assests/images/5.png'>",
+    "options": [
+      "X and Y are directly proportional",
+      "X and Y are inversely proportional",
+      "X and Y are unrelated",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q11",
+    "question": "A taxi service charges a base fare and a fixed amount per mile. The table below shows the cost of a ride based on the distance traveled: Based on the table, is the relationship between Distance (x) and Fare (y) linear?<br><img width='70%' src='./assests/images/6.png'>",
+    "options": [
+      "Yes",
+      "No",
+      "Cannot be determined",
+      "None of these"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q12",
+    "question": "A company tracks the number of hours employees work and the amount they are paid. The data is shown in the table below: Based on the table, is the relationship between Hours Worked (x) and Salary (y) linear?<br><img width='70%' src='./assests/images/7.png'>",
+    "options": [
+      "Yes",
+      "No",
+      "Cannot be determined",
+      "None of these"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q13",
+    "question": "A baker produces a certain number of cupcakes each day. The table below shows the total number of cupcakes baked over several days: If the relationship between (X) and (Y) is linear, what are the values of a and b?<br><img width='70%' src='./assests/images/8.png'>",
+    "options": [
+      "a=100, b=160",
+      "a=90, b=160",
+      "a=100, b=150",
+      "a=110, b=160"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q14",
+    "question": "Anna goes to a toy store with $50 and buys 10 dolls. The graph represents the relationship between the number of dolls Anna buys and the amount of money she has left. What is the cost of 5 dolls?<br><img width='47%' src='./assests/images/9.png'>",
+    "options": [
+      "$30",
+      "$20",
+      "$50",
+      "$40"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q15",
+    "question": "A sports club rents out bicycles based on the number of hours used. The following table shows rental costs for different hours: Will the graph of Hours Rented (x) vs. Rental Cost (y) be a straight line (linear graph) or a curve (non-linear graph)?<br><img width='70%' src='./assests/images/10.png'>",
+    "options": [
+      "Straight line (linear)",
+      "Curve (non-linear)",
+      "Insufficient information",
+      "None of these"
+    ],
+    "correct": 1
+  }
+]
